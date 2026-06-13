@@ -64,7 +64,7 @@ The following table summarizes the full technology stack, aligned to the project
 | Styling | Tailwind CSS v4 | Utility-first CSS; follows the central museum template style guide. |
 | Version Control | Git / GitHub | Repository forked from template; all docs, plans, and feedback tracked via commits. |
 | Responsive | CSS Grid / Flexbox | Mobile-first breakpoints; timeline scrolls horizontally on desktop, vertically on mobile. |
-| Animation | Framer Motion | |
+| Animation | Framer Motion | Handles smooth animations, transitions, and interactive feedback. |
 | Icons | Lucide React | Consistent icon system for UI controls, era tags, and tooltip pins. |
 | Hosting | GitHub Pages | Static output deployed via `astro build`; automated via GitHub Actions on push to main. |
 
