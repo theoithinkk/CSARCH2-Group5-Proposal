@@ -197,7 +197,7 @@ The exhibit targets WCAG 2.1 AA compliance throughout. The following requirement
 /
 ├── README.md                  # This file — full proposal write-up (incremental)
 ├── docs/
-│   ├── revisions.md           # Revision log / instructor comments
+│   ├── revisions.pdf          # Final proposal with all revisions
 │   └── assets/                # Mockup images (Figures 1 & 2)
 ├── src/
 │   ├── pages/                 # Astro pages (.astro/.mdx)
